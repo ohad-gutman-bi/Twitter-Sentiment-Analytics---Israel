@@ -14,12 +14,6 @@
 
 </div>
 
-## 📌 Overview
-פרויקט זה מממש צינור נתונים (Data Pipeline) מקצה לקצה לאיסוף, ניקוי, עיבוד והכנה של נתוני ציוצים מ-Twitter (X) עבור ניתוחי סנטימנט ומדדי מעורבות (Engagement Rate).
-
-הפרויקט מורכב משני שלבים מרכזיים ומייצר שני מאגרי נתונים ייעודיים:
-1. **Raw Dataset (`raw_tweets_dataset.csv`)** – נתונים גולמיים הכוללים מטא-דאטה מלאה, מידע על משתמשים ומאפייני ציוצים.
-2. **Processed Dataset (`processed_tweets_dataset.csv`)** – נתונים מעובדים ועוברים הנדסת תכונות (Feature Engineering), ניקוי טקסט מתקדם (NLP - Tokenization, Lemmatization, Stop-Words removal) וחישוב מדדים ייעודיים.
 
 ---
 
@@ -30,15 +24,6 @@
 * **Data Hashing & Security:** Hashlib (Anonymized User IDs)
 
 ---
-
-## 📁 Repository Structure
-```text
-.
-├── raw_tweets_dataset.csv        # Raw extracted Twitter dataset
-├── processed_tweets_dataset.csv  # Cleaned & processed dataset ready for analysis
-├── main_pipeline.py              # Main execution script
-├── README.md                     # Project documentation
-└── requirements.txt              # Project dependencies
 
 
 # Twitter Sentiment & Analytics - #Israel
