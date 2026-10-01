@@ -62,6 +62,17 @@ Understanding public perception and engagement trends on social media requires p
 - **User Reach:** Verified users account for a small percentage of total posters but drive a significant portion of overall retweets and likes.
 
 ---
+## 📊 Power BI Dashboard Overview
+
+<p align="center">
+  <img src=""C:\Users\97250\Downloads\codebasicsio\project 2\Twitter-sentiment-analysis--main\Twitter sentiment analysis_Project_pdf-page-001.jpg" alt="Twitter Sentiment Analytics Dashboard" width="100%" style="border-radius: 8px;">
+</p>
+
+### 🔍 Key Dashboard Views
+| Executive Overview | Geographical & Sentiment Analysis |
+| :---: | :---: |
+| <img src="./Docs/dashboard_page1.png" width="100%"> | <img src="./Docs/dashboard_page2.png" width="100%"> |
+| **Main KPIs & Engagement Trends** | **Hashtag Co-occurrence & Spatial Map** |
 
 ##  Repository Structure
 
