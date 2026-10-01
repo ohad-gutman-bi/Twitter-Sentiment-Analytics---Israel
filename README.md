@@ -65,7 +65,8 @@ Understanding public perception and engagement trends on social media requires p
 ## 📊 Power BI Dashboard Overview
 
 <p align="center">
-  <img src=""C:\Users\97250\Downloads\codebasicsio\project 2\Twitter-sentiment-analysis--main\Twitter sentiment analysis_Project_pdf-page-001.jpg" alt="Twitter Sentiment Analytics Dashboard" width="100%" style="border-radius: 8px;">
+  <img width="2075" height="1200" alt="Twitter sentiment analysis_Project_pdf-page-001" src="https://github.com/user-attachments/assets/061964d2-9d64-4726-8bf0-e92f398e9183" />
+
 </p>
 
 ### 🔍 Key Dashboard Views
