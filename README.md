@@ -68,12 +68,11 @@ Understanding public perception and engagement trends on social media requires p
   <img width="2075" height="1200" alt="Twitter sentiment analysis_Project_pdf-page-001" src="https://github.com/user-attachments/assets/061964d2-9d64-4726-8bf0-e92f398e9183" />
 
 </p>
+<p align="center">
+  <img width="2075" height="1200" alt="Twitter sentiment analysis_Project_pdf-page-004" src="https://github.com/user-attachments/assets/a5c53e1a-5cda-45c5-a856-83db7fbc2c15" />
 
-### 🔍 Key Dashboard Views
-| Executive Overview | Geographical & Sentiment Analysis |
-| :---: | :---: |
-| <img src="./Docs/dashboard_page1.png" width="100%"> | <img src="./Docs/dashboard_page2.png" width="100%"> |
-| **Main KPIs & Engagement Trends** | **Hashtag Co-occurrence & Spatial Map** |
+</p>
+
 
 ##  Repository Structure
 
