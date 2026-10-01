@@ -15,13 +15,13 @@
 
 </div>
 
-## 📌 Project Overview
+##  Project Overview
 
 Understanding public perception and engagement trends on social media requires processing large volumes of unstructured data. This project collects, cleans, analyzes, and visualizes Twitter data related to Israel between **2019 and 2023** to uncover sentiment patterns, key conversation drivers, geographical distribution, and high-impact users.
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Data Processing & Pipeline:** Python (`pandas`, `numpy`, `re`)
 - **NLP & Text Processing:** `NLTK` (Tokenization, Lemmatization, Stop-Words), `emot` (Emoji Extraction)
@@ -30,7 +30,7 @@ Understanding public perception and engagement trends on social media requires p
 
 ---
 
-## 🚀 Key Features & Pipeline Architecture
+##  Key Features & Pipeline Architecture
 
 ### 1. Data Collection & Extraction
 - Processed a dataset of over **109K tweets** spanning 4+ years (2019–2023).
@@ -55,7 +55,7 @@ Understanding public perception and engagement trends on social media requires p
 
 ---
 
-## 📊 Key Insights Highlights
+##  Key Insights Highlights
 
 - **Sentiment Breakdown:** 37% Positive, 43% Neutral, and 20% Negative across the dataset.
 - **Top Co-occurring Themes:** High volume of paired discussions involving Middle Eastern geopolitics (*#Palestine*, *#Iran*, *#Gaza*, *#Ukraine*).
@@ -63,12 +63,9 @@ Understanding public perception and engagement trends on social media requires p
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
-```text
-├── Data/
-│   ├── raw_tweets.csv
-│   └── processed_tweets.csv
+
 ├── Scripts/
 │   ├── twitter_nlp_pipeline.py
 │   └── sql_queries.sql
