@@ -1,4 +1,3 @@
-
 <div align="center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
     <defs>
@@ -58,22 +57,43 @@
       <text x="327" y="17" font-family="sans-serif" font-size="12" font-weight="600" fill="#e0f2fe" text-anchor="middle">SQL / ETL</text>
     </g>
   </svg>
+
+  <br><br>
+
+  [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+  [![NLTK](https://img.shields.io/badge/NLTK-NLP%20Preprocessing-green?style=for-the-badge)](https://www.nltk.org/)
+  [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
+
 </div>
-# 📊 Twitter Data Pipeline & Sentiment Analysis
-### End-to-End ETL, Text Preprocessing & Sentiment Analytics
-
-<img src="https://raw.githubusercontent.com/Ohad Gutman/Twitter-Sentiment-Analytics---Israel
-/main/assets/banner.png" alt="Project Banner" width="100%">
----
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NLTK](https://img.shields.io/badge/NLTK-NLP%20Preprocessing-green?style=for-the-badge)](https://www.nltk.org/)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
 ---
 
-</div>
+## 📌 Overview
+פרויקט זה מממש צינור נתונים (Data Pipeline) מקצה לקצה לאיסוף, ניקוי, עיבוד והכנה של נתוני ציוצים מ-Twitter (X) עבור ניתוחי סנטימנט ומדדי מעורבות (Engagement Rate).
+
+הפרויקט מורכב משני שלבים מרכזיים ומייצר שני מאגרי נתונים ייעודיים:
+1. **Raw Dataset (`raw_tweets_dataset.csv`)** – נתונים גולמיים הכוללים מטא-דאטה מלאה, מידע על משתמשים ומאפייני ציוצים.
+2. **Processed Dataset (`processed_tweets_dataset.csv`)** – נתונים מעובדים ועוברים הנדסת תכונות (Feature Engineering), ניקוי טקסט מתקדם (NLP - Tokenization, Lemmatization, Stop-Words removal) וחישוב מדדים ייעודיים.
+
+---
+
+## 🛠️ Architecture & Tech Stack
+* **Language:** Python
+* **Data Processing & ETL:** Pandas, NumPy
+* **NLP & Text Normalization:** NLTK (Tokenizer, WordNetLemmatizer, Stopwords), Regex
+* **Data Hashing & Security:** Hashlib (Anonymized User IDs)
+
+---
+
+## 📁 Repository Structure
+```text
+.
+├── raw_tweets_dataset.csv        # Raw extracted Twitter dataset
+├── processed_tweets_dataset.csv  # Cleaned & processed dataset ready for analysis
+├── main_pipeline.py              # Main execution script
+├── README.md                     # Project documentation
+└── requirements.txt              # Project dependencies
 
 ## Overview#
 
