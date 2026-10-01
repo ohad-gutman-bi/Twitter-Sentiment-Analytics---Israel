@@ -1,8 +1,6 @@
 <div align="center">
 <img width="1945" height="87" alt="banner" src="https://github.com/user-attachments/assets/ab491274-b1a6-4b41-888d-1426b0940af8" />
 
-
-# 📊 Twitter Sentiment & Analytics (#Israel)
 ### End-to-End ETL, Text Preprocessing, Advanced SQL & Power BI Analytics
 
 ---
