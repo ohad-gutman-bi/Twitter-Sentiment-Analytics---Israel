@@ -1,5 +1,18 @@
 <div align="center">
 
+# 📊 Twitter Data Pipeline & Sentiment Analysis
+### End-to-End ETL, Text Preprocessing & Sentiment Analytics
+
+---
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-NLP%20Preprocessing-green?style=for-the-badge)](https://www.nltk.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
+
+---
+
+</div>
 
 
 # Twitter Sentiment & Analytics - #Israel
