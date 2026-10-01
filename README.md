@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="./header.svg" alt="Twitter Data Pipeline Banner" width="100%">
+</p>
 
 # 📊 Twitter Data Pipeline & Sentiment Analysis
 ### End-to-End ETL, Text Preprocessing & Sentiment Analytics
