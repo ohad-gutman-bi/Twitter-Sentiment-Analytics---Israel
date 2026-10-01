@@ -1,6 +1,6 @@
 <div align="center">
+<img width="1945" height="87" alt="banner" src="https://github.com/user-attachments/assets/ab491274-b1a6-4b41-888d-1426b0940af8" />
 
-![Twitter Data Pipeline Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:0284c7&height=180&text=TWITTER%20DATA%20PIPELINE%20%26%20NLP&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Automated%20ETL%20%7C%20Text%20Preprocessing%20%7C%20Sentiment%20Analytics&descSize=15&descAlignY=65&descAlign=50)
 
 # 📊 Twitter Sentiment & Analytics (#Israel)
 ### End-to-End ETL, Text Preprocessing, Advanced SQL & Power BI Analytics
