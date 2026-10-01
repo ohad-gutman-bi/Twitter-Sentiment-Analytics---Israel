@@ -1,3 +1,38 @@
+<div align="center">
+
+# 📊 Twitter Data Pipeline & Sentiment Analysis
+### End-to-End ETL, Text Preprocessing & Sentiment Analytics
+
+<img src="https://raw.githubusercontent.com/Ohad Gutman/Twitter-Sentiment-Analytics---Israel
+/main/assets/banner.png" alt="Project Banner" width="100%">
+---
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-NLP%20Preprocessing-green?style=for-the-badge)](https://www.nltk.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
+
+---
+
+</div>
+
+## 📌 Overview
+פרויקט זה מממש צינור נתונים (Data Pipeline) מקצה לקצה לאיסוף, ניקוי, עיבוד והכנה של נתוני ציוצים מ-Twitter (X) עבור ניתוחי סנטימנט ומדדי מעורבות (Engagement Rate).
+
+הפרויקט מורכב משני שלבים מרכזיים ומייצר שני מאגרי נתונים ייעודיים:
+1. **Raw Dataset (`raw_tweets_dataset.csv`)** – נתונים גולמיים הכוללים מטא-דאטה מלאה, מידע על משתמשים ומאפייני ציוצים.
+2. **Processed Dataset (`processed_tweets_dataset.csv`)** – נתונים מעובדים ועוברים הנדסת תכונות (Feature Engineering), ניקוי טקסט מתקדם (NLP - Tokenization, Lemmatization, Stop-Words removal) וחישוב מדדים ייעודיים.
+
+---
+
+## 🛠️ Architecture & Tech Stack
+* **Language:** Python
+* **Data Processing & ETL:** Pandas, NumPy
+* **NLP & Text Normalization:** NLTK (Tokenizer, WordNetLemmatizer, Stopwords), Regex
+* **Data Hashing & Security:** Hashlib (Anonymized User IDs)
+
+---
+
 # Twitter Sentiment & Analytics - #Israel
 An end-to-end Data Engineering, NLP, and Business Intelligence project analyzing over 4 years of Twitter data centered around  #Israel. This project demonstrates a full data pipeline: scraping social media data, applying Natural Language Processing (NLP) preprocessing, performing advanced SQL queries, and designing interactive Power BI dashboards.
 
