@@ -17,14 +17,6 @@
 
 ---
 
-## 🛠️ Architecture & Tech Stack
-* **Language:** Python
-* **Data Processing & ETL:** Pandas, NumPy
-* **NLP & Text Normalization:** NLTK (Tokenizer, WordNetLemmatizer, Stopwords), Regex
-* **Data Hashing & Security:** Hashlib (Anonymized User IDs)
-
----
-
 
 # Twitter Sentiment & Analytics - #Israel
 
